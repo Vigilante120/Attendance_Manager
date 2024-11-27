@@ -1,0 +1,27 @@
+{
+    "PGDCA": {
+        "students": [
+            {
+                "roll_no": "102",
+                "name": "Gujjar Saab",
+                "email": "janesmith@example.com"
+            },
+            {
+                "roll_no": 4503,
+                "name": "Jaat Ji",
+                "email": ""
+            },
+            {
+                "roll_no": "50455",
+                "name": "DaddyTrator",
+                "email": "test@gmail.com"
+            }
+        ],
+        "attendance": {
+            "28-11-2024": [
+                "102",
+                "50455"
+            ]
+        }
+    }
+}
